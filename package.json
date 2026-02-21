@@ -1,0 +1,26 @@
+{
+    "name": "com.gdev.mobilenativestt",
+    "version": "1.0.0",
+    "displayName": "Mobile Native STT",
+    "description": "Offline speech-to-text using native platform APIs. Android uses Google SpeechRecognizer, iOS uses Apple SFSpeechRecognizer.",
+    "unity": "2021.3",
+    "keywords": [
+        "stt",
+        "speech-to-text",
+        "voice",
+        "recognition",
+        "native",
+        "android",
+        "ios"
+    ],
+    "author": {
+        "name": "GDev"
+    },
+    "samples": [
+        {
+            "displayName": "Demo",
+            "description": "Basic STT demo with UI (requires TextMeshPro)",
+            "path": "Samples~/Demo"
+        }
+    ]
+}
